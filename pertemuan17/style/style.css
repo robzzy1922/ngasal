@@ -1,0 +1,18 @@
+.card {
+  width: 10rem;
+  /* atur lebar card sesuai kebutuhan Anda */
+  margin-bottom: 20px;
+  /* jarak antar card */
+}
+
+.card:hover {
+  width: auto;
+  height: 10%;
+}
+.card-text {
+  margin-bottom: auto;
+}
+
+.nav-item {
+  margin-left: 25px;
+}
